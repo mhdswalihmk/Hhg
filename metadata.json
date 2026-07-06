@@ -1,0 +1,6 @@
+{
+  "name": "Hidayakkar",
+  "description": "A secure, private Instagram-style social media network for close friends to share high-quality photos, videos, text, voice notes, and stickers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
